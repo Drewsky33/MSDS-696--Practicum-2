@@ -15,6 +15,11 @@ In this project, I built machine learning models to predict outcomes of a soccer
 
 The second part of this project was an age profile of the Big 6 in the English Premier League: Arsenal, Chelsea, Liverpool, Manchester United, Manchester City, and Tottenham Hotspur. 
 
+## Research Questions
+
+* What kind of match day data is important in predicting a winner of a match?
+* What kind of players do champions usually have? (Age profile)
+
 ## Data Sources:
 
 * The data used in building the model came from: http://football-data.co.uk/englandm.php 
@@ -45,4 +50,15 @@ Image source: https://en.wikipedia.org/wiki/List_of_English_football_champions
 
 ![image](https://user-images.githubusercontent.com/77873198/145753773-3f34e375-a605-4922-b924-6584776ec31f.png)
 
+## Conclusion
 
+* What kind of match day data is important in predicting a winner of a match?
+
+![image](https://user-images.githubusercontent.com/77873198/145754037-8090fab2-cb95-48ab-ac66-be92be8dbb27.png)
+
+
+* What kind of players do champions usually have? (Age profile)
+
+What was learned from the age profile was that teams that had players in the primes of their careers contributing more minutes tended to do better than teams who had large amounts of youth contributing quality minutes. 
+* The top 4 of the league Manchester City, Liverpool, Chelsea, and Manchester United supported this idea. 
+* Arsenal and Tottenham the other members of the big 6 didn't have the same amount of players in their primes logging meaningful minutes indicating an overeliance on youth and possible poor recruitment. 
